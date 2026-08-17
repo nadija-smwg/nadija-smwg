@@ -14,24 +14,24 @@
 
 <br/><br/>
 
-<a href="#connect">
-<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://github.com/nadija-smwg">
+<img src="https://img.shields.io/badge/GitHub-Profile-312E81?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="#connect">
-<img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="#connect">
+<a href="mailto:YOUR_EMAIL@example.com">
 <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="#connect">
-<img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=7C3AED&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&color=8B5CF6&label=STARS"/>
+<img src="https://komarev.com/ghpvc/?username=nadija-smwg&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/nadija-smwg?style=for-the-badge&color=7C3AED&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/nadija-smwg?style=for-the-badge&color=8B5CF6&label=STARS"/>
 
 </div>
 
@@ -39,24 +39,25 @@
 
 # About
 
-I am a **Computer Science & Engineering undergraduate at the University of Moratuwa**, focused on building strong foundations in software engineering, algorithms, systems, and modern application development.
+I am a **Computer Science & Engineering undergraduate at the University of Moratuwa**, building a strong foundation in software engineering, algorithms, data structures, application development, and modern computing technologies.
 
-My interests span **software engineering, AI/ML, full-stack development, and product engineering**. I enjoy turning complex problems into maintainable, efficient, and practical software solutions.
+My primary interests are **software engineering, artificial intelligence, machine learning, full-stack development, and product engineering**.
 
-I am particularly interested in understanding systems deeply rather than simply using abstractions — from data structures and algorithms to backend architecture, application development, and emerging AI technologies.
+I enjoy solving technical problems, understanding how systems work internally, and turning ideas into practical software.
 
 ### Engineering Focus
 
-* **Software Engineering** — clean architecture, maintainable systems, problem solving
-* **Algorithms & Data Structures** — competitive programming and algorithmic thinking
-* **AI / ML** — exploring intelligent systems and practical machine learning
-* **Full-Stack Development** — building complete applications from frontend to backend
-* **Product Engineering** — designing software around real user and business problems
-* **Continuous Learning** — consistently expanding technical depth and engineering skills
+* **Software Engineering** — clean code, maintainable architecture, debugging, and problem solving
+* **Algorithms & Data Structures** — algorithmic thinking, complexity analysis, and implementation
+* **AI / ML** — exploring machine learning and intelligent systems
+* **Full-Stack Development** — building applications across frontend and backend
+* **Mobile Development** — Flutter and Dart application development
+* **Product Engineering** — building software around practical problems and user needs
+* **Continuous Learning** — consistently improving technical depth and engineering skills
 
 ### Open To
 
-`Software Engineering` · `AI/ML` · `Full-Stack Development` · `Backend Engineering` · `Open Source` · `Technical Collaborations`
+`Software Engineering` · `AI/ML` · `Full-Stack Development` · `Backend Engineering` · `Mobile Development` · `Open Source` · `Technical Collaborations`
 
 ---
 
@@ -77,74 +78,78 @@ I am particularly interested in understanding systems deeply rather than simply 
 ### Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,mongodb,mysql,postgresql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,mongodb,mysql,postgres&theme=dark"/>
+</p>
+
+### Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark"/>
 </p>
 
 ### Cloud, DevOps & Tooling
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,androidstudio,vscode,gradle&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,gradle&theme=dark"/>
 </p>
 
 ---
 
 # AI / ML Expertise
 
-| Domain                  |  Proficiency | Details                                                                       |
-| :---------------------- | :----------: | :---------------------------------------------------------------------------- |
-| Machine Learning        |   Exploring  | Developing practical understanding of machine learning concepts and workflows |
-| Artificial Intelligence |   Exploring  | Interested in intelligent systems and applied AI                              |
-| Data Processing         | Intermediate | Working with structured data, algorithms, and computational problem solving   |
-| Algorithms              | Intermediate | Strong focus on algorithmic thinking and data structures                      |
-| Python for AI           | Intermediate | Using Python as a foundation for computational and AI-oriented work           |
+| Domain                  |  Proficiency | Details                                                             |
+| :---------------------- | :----------: | :------------------------------------------------------------------ |
+| Machine Learning        |   Exploring  | Developing practical understanding of machine learning concepts     |
+| Artificial Intelligence |   Exploring  | Interested in intelligent systems and applied AI                    |
+| Data Processing         | Intermediate | Working with structured data and computational problem solving      |
+| Algorithms              | Intermediate | Strong focus on algorithms and data structures                      |
+| Python for AI           | Intermediate | Using Python as a foundation for computational and AI-oriented work |
 
 ---
 
 # Featured Projects
 
 <details>
-<summary><strong>🚀 SafeRide — Flutter Application</strong></summary>
+<summary><strong>🚀 SafeRide</strong></summary>
 
 <br/>
 
-A mobile application project focused on building a practical and user-oriented experience using Flutter and the Dart ecosystem.
+A Flutter-based mobile application developed as a practical software project.
 
-| Attribute       | Details                                          |
-| :-------------- | :----------------------------------------------- |
-| **Stack**       | Flutter · Dart · Android                         |
-| **Scale**       | Mobile Application                               |
-| **Performance** | Designed with efficient application architecture |
-| **Security**    | Application-level security considerations        |
-| **Impact**      | Practical mobile product development experience  |
-| **Repository**  | GitHub Repository                                |
+| Attribute       | Details                                                    |
+| :-------------- | :--------------------------------------------------------- |
+| **Stack**       | Flutter · Dart · Android                                   |
+| **Scale**       | Mobile Application                                         |
+| **Performance** | Focused on efficient application development               |
+| **Security**    | Application-level security considerations                  |
+| **Impact**      | Hands-on experience building a complete mobile application |
+| **Repository**  | [GitHub](https://github.com/nadija-smwg)                   |
 
 ### Engineering Perspective
 
-SafeRide represents hands-on experience with modern mobile application development, dependency management, Android tooling, Gradle, and the Flutter ecosystem.
-
-The project also provides experience working through real development-environment issues involving packages, SDKs, Java versions, Gradle configuration, and Android Studio.
+This project provided practical experience with Flutter development, Dart, Android tooling, package management, Gradle, dependency resolution, and application debugging.
 
 </details>
 
 <details>
-<summary><strong>🧠 Algorithms & Data Structures</strong></summary>
+<summary><strong>🧠 Data Structures & Algorithms</strong></summary>
 
 <br/>
 
-A collection of implementations and problem-solving exercises covering fundamental computer science concepts.
+A collection of implementations and problem-solving exercises focused on fundamental computer science concepts.
 
-| Attribute       | Details                                         |
-| :-------------- | :---------------------------------------------- |
-| **Stack**       | C++                                             |
-| **Scale**       | Algorithm & DSA Practice                        |
-| **Performance** | Complexity-focused implementations              |
-| **Security**    | N/A                                             |
-| **Impact**      | Stronger algorithmic problem-solving foundation |
-| **Repository**  | GitHub Repository                               |
+| Attribute       | Details                                          |
+| :-------------- | :----------------------------------------------- |
+| **Stack**       | C++                                              |
+| **Scale**       | Algorithm & DSA Practice                         |
+| **Performance** | Complexity-focused implementations               |
+| **Security**    | N/A                                              |
+| **Impact**      | Strengthening algorithmic problem-solving skills |
+| **Repository**  | [GitHub](https://github.com/nadija-smwg)         |
 
 ### Engineering Perspective
 
-The work covers fundamental structures and algorithms including:
+Areas of practice include:
 
 * Binary Search Trees
 * Binary Trees
@@ -153,12 +158,10 @@ The work covers fundamental structures and algorithms including:
 * Quick Sort
 * Merge Sort
 * Selection Sort
-* Searching Algorithms
+* Searching
 * Tree Traversals
 * Lowest Common Ancestor
 * Kth Smallest Element
-
-The emphasis is on understanding implementation details, time complexity, space complexity, and practical problem-solving techniques.
 
 </details>
 
@@ -167,22 +170,20 @@ The emphasis is on understanding implementation details, time complexity, space 
 
 <br/>
 
-A collection of programming exercises used to strengthen competitive-programming and software-engineering fundamentals.
+A collection of programming exercises focused on improving computational thinking and implementation skills.
 
-| Attribute       | Details                         |
-| :-------------- | :------------------------------ |
-| **Stack**       | C++ · Python · Java             |
-| **Scale**       | Problem-Solving Practice        |
-| **Performance** | Complexity-aware solutions      |
-| **Security**    | N/A                             |
-| **Impact**      | Improved computational thinking |
-| **Repository**  | GitHub Repository               |
+| Attribute       | Details                                      |
+| :-------------- | :------------------------------------------- |
+| **Stack**       | C++ · Python · Java                          |
+| **Scale**       | Problem-Solving Practice                     |
+| **Performance** | Complexity-aware solutions                   |
+| **Security**    | N/A                                          |
+| **Impact**      | Developing stronger programming fundamentals |
+| **Repository**  | [GitHub](https://github.com/nadija-smwg)     |
 
 ### Engineering Perspective
 
-The project portfolio includes solutions involving arrays, strings, mathematical problems, sorting, searching, trees, and algorithmic optimization.
-
-The goal is to develop the ability to translate problem statements into efficient and reliable implementations.
+The work covers arrays, strings, mathematical problems, sorting, searching, trees, object-oriented programming, and algorithmic optimization.
 
 </details>
 
@@ -192,21 +193,21 @@ The goal is to develop the ability to translate problem statements into efficien
 
 ### Software Engineering & Technical Development
 
-**Independent Engineering & Academic Projects**
-`University / Personal Development`
+**University & Personal Projects**
+`University of Moratuwa · Personal Development`
 
-Focused on developing practical programming and software-engineering skills through academic coursework, independent projects, algorithmic problem solving, and application development.
+Focused on developing practical programming and software engineering skills through academic coursework, independent projects, algorithmic problem solving, and application development.
 
 #### Scope of Work
 
 * Implementing algorithms and fundamental data structures
 * Developing applications using modern programming languages
 * Working with Flutter and Android development tooling
-* Debugging build systems, dependencies, and development environments
+* Debugging dependencies, build systems, and development environments
 * Practicing object-oriented programming
 * Exploring backend and full-stack development
-* Developing problem-solving skills through algorithmic exercises
-* Exploring AI/ML concepts and applications
+* Solving programming and algorithmic problems
+* Exploring AI and machine learning concepts
 
 **Skills**
 
@@ -221,8 +222,8 @@ Focused on developing practical programming and software-engineering skills thro
 |           Recognition          | Details                                                     |
 | :----------------------------: | :---------------------------------------------------------- |
 |  🎓 **University of Moratuwa** | Computer Science & Engineering undergraduate                |
-| 💻 **Competitive Programming** | Continuous algorithm and data-structure practice            |
-|     🧩 **Problem Solving**     | Experience solving programming and algorithmic challenges   |
+|       💻 **Programming**       | Continuous algorithm and data-structure practice            |
+|     🧩 **Problem Solving**     | Regular programming problem-solving practice                |
 | 📱 **Application Development** | Hands-on Flutter and Android development                    |
 |   🛠️ **Engineering Growth**   | Continuous exploration of software engineering technologies |
 
@@ -234,19 +235,19 @@ Focused on developing practical programming and software-engineering skills thro
 
 ### AWS
 
-<img src="https://img.shields.io/badge/AWS-Certification%20Path-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-Learning%20Path-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 ### Oracle
 
-<img src="https://img.shields.io/badge/Oracle-Certification%20Path-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-Learning%20Path-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
 ### NPTEL
 
-<img src="https://img.shields.io/badge/NPTEL-Certification%20Path-8B5CF6?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/NPTEL-Learning%20Path-8B5CF6?style=for-the-badge&logo=academia&logoColor=white"/>
 
 ### Cisco
 
-<img src="https://img.shields.io/badge/Cisco-Certification%20Path-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cisco-Learning%20Path-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 
 ---
 
@@ -255,19 +256,19 @@ Focused on developing practical programming and software-engineering skills thro
 <div align="center">
 
 <a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-DSA-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 <a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<img src="https://img.shields.io/badge/HackerRank-Coding-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 <a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 </div>
@@ -278,15 +279,17 @@ Focused on developing practical programming and software-engineering skills thro
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nadija-smwg&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=nadija-smwg&theme=dark" height="180"/>
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadija-smwg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="180"/>
 
 </div>
 
@@ -296,7 +299,7 @@ Focused on developing practical programming and software-engineering skills thro
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nadija-smwg&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
 
 </div>
 
@@ -306,7 +309,7 @@ Focused on developing practical programming and software-engineering skills thro
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=8B5CF6&line=6366F1&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nadija-smwg&bg_color=0D1117&color=8B5CF6&line=6366F1&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -316,7 +319,7 @@ Focused on developing practical programming and software-engineering skills thro
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/nadija-smwg/nadija-smwg/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -336,7 +339,7 @@ Building:
   - Practical software projects
   - Mobile applications
   - Algorithmic solutions
-  - Developer tooling and experiments
+  - Developer experiments
 
 Exploring:
   - AI Engineering
@@ -367,11 +370,11 @@ Open To:
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/nadija-smwg">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO_DOMAIN">
+<a href="YOUR_PORTFOLIO_URL">
 <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
