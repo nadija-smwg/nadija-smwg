@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6366f1,100:8b5cf6&height=220&section=header&text=NADIJA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%26%20Engineering%20%7C%20Software%20Engineering%20%7C%20AI%20%26%20ML&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6366f1,100:8b5cf6&height=220&section=header&text=NADIJA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20and%20Engineering%20%7C%20Software%20Engineering%20%7C%20AI%20%2F%20ML&descAlignY=58&descSize=16" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=750&lines=Computer+Science+%26+Engineering+Student;Software+Engineering+Enthusiast;AI+%2F+ML+Explorer;Full-Stack+Developer;Building+Reliable+Software+with+Purpose" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=750&lines=Computer+Science+and+Engineering+Student;Software+Engineering+Enthusiast;AI+and+ML+Explorer;Full-Stack+Developer;Building+Reliable+Software+with+Purpose" alt="Typing SVG"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/University-University%20of%20Moratuwa-4F46E5?style=for-the-badge&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/Major-Computer%20Science%20%26%20Engineering-6366F1?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/Major-Computer%20Science%20and%20Engineering-6366F1?style=for-the-badge&logo=codeforces&logoColor=white"/>
 <img src="https://img.shields.io/badge/Location-Sri%20Lanka-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br/><br/>
@@ -17,12 +17,15 @@
 <a href="https://github.com/nadija-smwg">
 <img src="https://img.shields.io/badge/GitHub-Profile-312E81?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
 <img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 <a href="YOUR_PORTFOLIO_URL">
 <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
@@ -39,17 +42,17 @@
 
 # About
 
-I am a **Computer Science & Engineering undergraduate at the University of Moratuwa**, building a strong foundation in software engineering, algorithms, data structures, application development, and modern computing technologies.
+I am a **Computer Science and Engineering undergraduate at the University of Moratuwa**, building a strong foundation in software engineering, algorithms, data structures, application development, and modern computing technologies.
 
-My primary interests are **software engineering, artificial intelligence, machine learning, full-stack development, and product engineering**.
+My primary interests are **software engineering, artificial intelligence, machine learning, full-stack development, mobile development, and product engineering**.
 
 I enjoy solving technical problems, understanding how systems work internally, and turning ideas into practical software.
 
 ### Engineering Focus
 
 * **Software Engineering** — clean code, maintainable architecture, debugging, and problem solving
-* **Algorithms & Data Structures** — algorithmic thinking, complexity analysis, and implementation
-* **AI / ML** — exploring machine learning and intelligent systems
+* **Algorithms and Data Structures** — algorithmic thinking, complexity analysis, and implementation
+* **AI and ML** — exploring machine learning and intelligent systems
 * **Full-Stack Development** — building applications across frontend and backend
 * **Mobile Development** — Flutter and Dart application development
 * **Product Engineering** — building software around practical problems and user needs
@@ -75,7 +78,7 @@ I enjoy solving technical problems, understanding how systems work internally, a
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark"/>
 </p>
 
-### Backend & Databases
+### Backend and Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,mongodb,mysql,postgres&theme=dark"/>
@@ -87,7 +90,7 @@ I enjoy solving technical problems, understanding how systems work internally, a
 <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark"/>
 </p>
 
-### Cloud, DevOps & Tooling
+### Cloud, DevOps and Tooling
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,gradle&theme=dark"/>
@@ -123,7 +126,7 @@ A Flutter-based mobile application developed as a practical software project.
 | **Performance** | Focused on efficient application development               |
 | **Security**    | Application-level security considerations                  |
 | **Impact**      | Hands-on experience building a complete mobile application |
-| **Repository**  | [GitHub](https://github.com/nadija-smwg)                   |
+| **Repository**  | [GitHub Profile](https://github.com/nadija-smwg)           |
 
 ### Engineering Perspective
 
@@ -132,7 +135,7 @@ This project provided practical experience with Flutter development, Dart, Andro
 </details>
 
 <details>
-<summary><strong>🧠 Data Structures & Algorithms</strong></summary>
+<summary><strong>🧠 Data Structures and Algorithms</strong></summary>
 
 <br/>
 
@@ -141,11 +144,11 @@ A collection of implementations and problem-solving exercises focused on fundame
 | Attribute       | Details                                          |
 | :-------------- | :----------------------------------------------- |
 | **Stack**       | C++                                              |
-| **Scale**       | Algorithm & DSA Practice                         |
+| **Scale**       | Algorithm and DSA Practice                       |
 | **Performance** | Complexity-focused implementations               |
 | **Security**    | N/A                                              |
 | **Impact**      | Strengthening algorithmic problem-solving skills |
-| **Repository**  | [GitHub](https://github.com/nadija-smwg)         |
+| **Repository**  | [GitHub Profile](https://github.com/nadija-smwg) |
 
 ### Engineering Perspective
 
@@ -172,14 +175,14 @@ Areas of practice include:
 
 A collection of programming exercises focused on improving computational thinking and implementation skills.
 
-| Attribute       | Details                                      |
-| :-------------- | :------------------------------------------- |
-| **Stack**       | C++ · Python · Java                          |
-| **Scale**       | Problem-Solving Practice                     |
-| **Performance** | Complexity-aware solutions                   |
-| **Security**    | N/A                                          |
-| **Impact**      | Developing stronger programming fundamentals |
-| **Repository**  | [GitHub](https://github.com/nadija-smwg)     |
+| Attribute       | Details                                          |
+| :-------------- | :----------------------------------------------- |
+| **Stack**       | C++ · Python · Java                              |
+| **Scale**       | Problem-Solving Practice                         |
+| **Performance** | Complexity-aware solutions                       |
+| **Security**    | N/A                                              |
+| **Impact**      | Developing stronger programming fundamentals     |
+| **Repository**  | [GitHub Profile](https://github.com/nadija-smwg) |
 
 ### Engineering Perspective
 
@@ -191,9 +194,9 @@ The work covers arrays, strings, mathematical problems, sorting, searching, tree
 
 # Experience
 
-### Software Engineering & Technical Development
+### Software Engineering and Technical Development
 
-**University & Personal Projects**
+**University and Personal Projects**
 `University of Moratuwa · Personal Development`
 
 Focused on developing practical programming and software engineering skills through academic coursework, independent projects, algorithmic problem solving, and application development.
@@ -221,7 +224,7 @@ Focused on developing practical programming and software engineering skills thro
 
 |           Recognition          | Details                                                     |
 | :----------------------------: | :---------------------------------------------------------- |
-|  🎓 **University of Moratuwa** | Computer Science & Engineering undergraduate                |
+|  🎓 **University of Moratuwa** | Computer Science and Engineering undergraduate              |
 |       💻 **Programming**       | Continuous algorithm and data-structure practice            |
 |     🧩 **Problem Solving**     | Regular programming problem-solving practice                |
 | 📱 **Application Development** | Hands-on Flutter and Android development                    |
@@ -281,7 +284,7 @@ Focused on developing practical programming and software engineering skills thro
 
 <img src="https://github-readme-stats.vercel.app/api?username=nadija-smwg&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9" height="180"/>
 
-<img src="https://streak-stats.demolab.com/?user=nadija-smwg&theme=dark" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=nadija-smwg&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6" height="180"/>
 
 </div>
 
@@ -329,10 +332,10 @@ Focused on developing practical programming and software engineering skills thro
 
 ```yaml
 Learning:
-  - Advanced Data Structures & Algorithms
-  - Java & Object-Oriented Programming
+  - Advanced Data Structures and Algorithms
+  - Java and Object-Oriented Programming
   - Software Engineering
-  - Artificial Intelligence & Machine Learning
+  - Artificial Intelligence and Machine Learning
   - Full-Stack Development
 
 Building:
@@ -362,16 +365,16 @@ Open To:
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/nadija-smwg">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/nadija-smwg">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="YOUR_PORTFOLIO_URL">
